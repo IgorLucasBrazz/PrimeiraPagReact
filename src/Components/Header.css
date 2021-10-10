@@ -1,0 +1,23 @@
+.Nav{
+    grid-area: nav;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    align-items: center;
+    justify-items: center;
+}
+
+.Title-header{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.Font-header{
+    color: white;
+    text-decoration: none;
+}
+
+.Font-header:hover{
+    color: gray;
+}
