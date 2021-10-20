@@ -1,0 +1,28 @@
+.intro{
+    text-align: center;
+    font-style: italic;
+    color: rgb(134, 37, 37);
+    font-weight: bold;
+    padding-top: 10px;
+    font-size: 30px;
+}
+
+.title-left{
+    color: rgb(134, 37, 37);
+    font-weight: bold;
+    padding-top: 10px;
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+}
+
+.content-right{
+    text-align: justify;
+    text-align: center;
+}
+
+.img {
+    width: 100%;
+    max-width: 850px;
+    height: 400px;
+}

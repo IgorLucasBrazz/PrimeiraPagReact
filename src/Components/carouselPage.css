@@ -1,0 +1,27 @@
+.img {
+    width: 100%;
+    max-width: 850px;
+    height: 400px;
+}
+
+.carousel-inner img {
+    margin: auto;
+    color: black;
+    background-color: crimson;
+    
+}
+
+.carousel-control-prev{
+    color: crimson;
+}
+
+.carousel-dark{
+    color: black;
+    background-color: black;
+}
+.carousel {
+    height: auto;
+    width: auto;
+    margin: auto;
+    color: crimson;
+}

@@ -1,0 +1,23 @@
+.Title-header{
+    color:crimson;
+    font-weight:bold;
+    font-style: italic;
+    font-size: 30px;
+}
+
+.Nav{
+    grid-area: nav;
+    display:flex;
+    grid-template-columns: repeat(2, auto);
+    background-color: rgb(207, 177, 177);
+}
+
+.Font-header{
+    color: rgb(136, 48, 48);
+    text-decoration: none;
+    background-color: rgb(97, 44, 44);
+}
+
+.Font-header:hover{
+    color: rgb(90, 41, 41);
+}
